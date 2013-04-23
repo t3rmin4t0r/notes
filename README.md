@@ -1,0 +1,4 @@
+notes
+=====
+
+Random implementation notes
