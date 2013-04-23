@@ -1,4 +1,3 @@
-notes
-=====
+There's nothing here!
 
-Random implementation notes
+Read the https://github.com/t3rmin4t0r/notes/wiki
